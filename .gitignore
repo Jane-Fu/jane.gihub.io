@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>前端网址导航 - WHYCSS</title>
+	<meta name="viewport" content="width=device, inital-scale=1">
+	<link rel="stylesheet" href="css/common.css">
+	<link rel="shortcut icon" href="img/favicon.ico">
+</head>
+<body>
+	<div class="nav">
+		<img class="logo" src="img/logo.png" alt="whycss-前端网址导航">
+	</div>
+	<div class="remind">
+		欢迎来到前端网址导航whycss，本站聚合了前端常用的一些网址，希望能给各位带来一点点的便利。更多精彩内容，期待您来一起添加！- smallni
+	</div>
+
+	<div class="content scontent" id="content">
+		<div class="sidebar" id="sidebar">
+			<h3>导航</h3>
+			<ul>
+				<li><a href="#J1">前端圈子</a></li>
+				<li><a href="#J2">UED博客</a></li>
+				<li><a href="#J3">浏览器百宝箱</a></li>
+				<li><a href="#J4">前端工具箱</a></li>
+				<li><a href="#J5">CSS/HTML</a></li>
+				<li><a href="#J6">JavaScript</a></li>
+				<li><a href="#J7">多终端</a></li>
+				<li><a href="#J8">综合资源库</a></li>
+				<li><a href="#J9">懂点设计和交互</a></li>
+			</ul>
+			<img src="img/wx.png" alt="weixin">
+			<a href="http://www.smallni.com/add-links/" class="btn-add" title="提交前端资源" target="_blank">提交网址</a>
+		</div>
+		<div class="main">
+			<span id="J-btn" class="menu-button">Table of Contents</span>
+			<div class="section" id="#J1">
+				<div class="section-inner">
+					<h3 class="hd">01.前端这个圈子</h3>
+					<dl class="link-list">
+						<dt class="link-hd">社区/组织</dt>
+						<dd class="link-dd">
+							<a href="" target="_blank" title="w3c">W3C</a>
+							<a href="" target="_blank">TPAC</a>
+							<a href="" target="_blank">W3C</a>
+							<a href="" target="_blank">WebReBuild</a>
+							<a href="" target="_blank">HTML5研究小组</a>
+							<a href="" target="_blank">阿里技术嘉年华</a>
+							<a href="" target="_blank">京/沪JS</a>
+							<a href="" target="_blank">前端圈</a>
+							<a href="" target="_blank">HTML5梦工场</a>
+							<a href="" target="_blank">无障碍联盟</a>
+						</dd>						
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">国内综合</dt>
+						<dd class="link-bd">
+							<a href="javascript:;" target="_blank" title="">前端观察</a>
+							<a href="javascript:;" target="_blank" title="">阮一峰</a>
+							<a href="javascript:;" target="_blank" title="">W3CPLUS</a>
+							<a href="javascript:;" target="_blank" title="">W3CFUNS</a>
+							<a href="javascript:;" target="_blank" title="">大前端</a>
+							<a href="javascript:;" target="_blank" title="">W3HELP</a>
+							<a href="javascript:;" target="_blank" title="">W3SCHOOL</a>
+							<a href="javascript:;" target="_blank" title="">HTML5中国</a>
+							<a href="javascript:;" target="_blank" title="">F2E社区</a>
+							<a href="javascript:;" target="_blank" title="">MDNN<i class="icon-new">NEW</i></a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">国内个人</dt>
+						<dd class="link-bd">
+							<a href="javascript:;" target="_blank" titie="">CSS森林</a>
+							<a href="javascript:;" target="_blank" titie="">艾文王</a>
+							<a href="javascript:;" target="_blank" titie="">余果</a>
+							<a href="javascript:;" target="_blank" titie="">张鑫旭</a>
+							<a href="javascript:;" target="_blank" titie="">大猫</a>
+							<a href="javascript:;" target="_blank" titie="">飘飘</a>
+							<a href="javascript:;" target="_blank" titie="">米随随</a>
+							<a href="javascript:;" target="_blank" titie="">99css</a>
+							<a href="javascript:;" target="_blank" titie="">进步博客</a>
+							<a href="javascript:;" target="_blank" titie="">万戈</a>
+							<a href="javascript:;" target="_blank" titie="">任平生</a>
+							<a href="javascript:;" target="_blank" titie="">小李刀刀</a>
+							<a href="javascript:;" target="_blank" titie="">元云</a>
+							<a href="javascript:;" target="_blank" titie="">珍妮</a>
+							<a href="javascript:;" target="_blank" titie="">偷米饭</a>
+							<a href="javascript:;" target="_blank" titie="">丁小倪</a>
+							<a href="javascript:;" target="_blank" titie="">玉伯</a>
+							<a href="javascript:;" target="_blank" titie="">拔赤</a>
+							<a href="javascript:;" target="_blank" titie="">堂主</a>
+							<a href="javascript:;" target="_blank" titie="">怿飞</a>
+							<a href="javascript:;" target="_blank" titie="">嗷嗷</a>
+							<a href="javascript:;" target="_blank" titie="">一丝</a>
+							<a href="javascript:;" target="_blank" titie="">勾三股四</a>
+							<a href="javascript:;" target="_blank" titie="">贺师俊</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dl class="link-hd">国外综合</dl>
+						<dd class="link-bd">
+							<a href="">CSS-Tricks</a>
+							<a href="">WebPlatform</a>
+							<a href="">SmashingMagazine</a>
+							<a href="">cssZenGarden</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dl class="link-hd">国外个人</dl>
+						<dd class="link-bd">
+							<a href="">SteveSouders</a>
+							<a href="">JohnResig</a>
+							<a href="">DouglasCrockford<i>NEW</i></a>
+							<a href="">EricMeyer</a>
+							<a href="">NicholasZakas</a>
+							<a href="">Addy Osmani<i>NEW</i></a>
+						</dd>
+					</dl>
+				</div>
+			</div>
+			<div class="section" id="J2">
+				<div class="section-inner">
+					<h3 class="hd">02.UED团队博客</h3>
+					<dl class="link-list">
+						<dt class="link-hd">腾讯系</dt>
+						<dd class="link-bd">
+							<a href="">腾讯TGideas</a>
+							<a href="">腾讯ISUX</a>
+							<a href="">腾讯CDC</a>
+							<a href="">alloyteam</a>
+							<a href="">QQ游戏GDC</a>
+							<a href="">腾讯无线MXD</a>
+							<a href="">财付通TID</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">阿里系</dt>
+						<dd class="link-bd">
+							<a href="">阿里中文UED</a>
+							<a href="">阿里中文UED</a>
+							<a href="">支付宝UED</a>
+							<a href="">淘宝UED</a>
+							<a href="">天猫UED</a>
+							<a href="">一淘UED</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">百度系</dt>
+						<dd class="link-bd">
+							<a href="">百度searchUX</a>
+							<a href="">百度FEX</a>
+							<a href="">百度MUX</a>
+							<a href="">百度UEO</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">搜狐系</dt>
+						<dd class="link-bd">
+							<a href="">搜狗UED</a>
+							<a href="">搜狐MUED</a>
+							<a href="">搜狐畅游UED</a>
+							<a href="">搜狐焦点UED</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">新浪系</dt>
+						<dd class="link-bd">
+							<a href="">新浪网UED</a>
+							<a href="">新浪微博UDC</a>
+							<a href="">新浪乐居UED</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">网易系</dt>
+						<dd class="link-bd">
+							<a href="">网易UEDC</a>
+							<a href="">新浪微博UDC</a>
+							<a href="">网易游戏GUX</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">其他</dt>
+						<dd class="link-bd">
+							<a href="">携程UED<i>NEW</i></a>
+							<a href="">19楼UED</a>
+							<a href="">5173UED</a>
+							<a href="">迅雷CUED</a>
+							<a href="">360UXC</a>
+							<a href="">昆仑游戏UED</a>
+							<a href="">一号店UED</a>
+							<a href="">京东设计中心</a>
+						</dd>
+					</dl>
+				</div>				
+			</div>
+			<div class="section" id="J3">
+				<div class="section-inner">
+					<h3 class="hd">03.浏览器百宝箱</h3>
+					<dl class="link-list">
+						<dt class="link-hd">综合</dt>
+						<dd class="link-bd">
+							<a href="">谷歌浏览器</a>
+							<a href="">欧朋浏览器</a>
+							<a href="">Safari浏览器</a>
+							<a href="">IE浏览器</a>
+							<a href="">QQ浏览器</a>
+							<a href="">遨游浏览器</a>
+							<a href="">360浏览器</a>
+							<a href="">世界之窗浏览器</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">插件</dt>
+						<dd class="link-bd">
+							<dl class="sub-link-list">
+								<dt class="sub-link-hd">火狐</dt>
+								<dd class="sub-link-bd">
+									<a href="">FireBUG</a>
+									<a href="">cssUsage</a>
+									<a href="">YSlow</a>
+									<a href="">WebDeveloper</a>
+									<a href="">HtmlValidator</a>
+									<a href="">colorzilla</a>
+									<a href="">httpfox</a>
+								</dd>
+								<dt class="sub-link-hd">谷歌</dt>
+								<dd class="sub-link-bd">
+									<a href="">ChromeDevTools</a>
+								</dd>
+								<dt class="sub-link-hd">其它</dt>
+								<dd class="sub-link-bd">
+									<a href="">DEBUGGER</a>
+									<a href="">IEToolbar</a>
+								</dd>
+							</dl>
+						</dd>
+					</dl>
+				</div>
+			</div>
+			<div class="section" id="J4">
+				<div class="section-inner">
+					<h3 class="hd">04.前端工具箱</h3>
+					<dl class="link-list">
+						<dt class="link-hd">客户端编辑器</dt>
+						<dd class="link-bd">
+							<a href="">sublimeText</a>
+							<a href="">notepad++</a>
+							<a href="">EditPlus</a>
+							<a href="">IntelliJIDEA</a>
+							<a href="">Dreamweaver</a>
+							<a href="">VIM</a>
+							<a href="">Aptana</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">代码在线编辑</dt>
+						<dd class="link-bd">
+							<a href="">jsfiddle</a>
+							<a href="">jsbin</a>
+							<a href="">cssdeck</a>
+							<a href="">codepen</a>
+							<a href="">jsdoit</a>
+							<a href="">dabblet</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">页面性能测试</dt>
+						<dd class="link-bd">
+							<a href="">阿里测</a>
+							<a href="">PageSpeed</a>
+							<a href="">WebPageTest</a>
+							<a href="">gtmetrix</a>
+							<a href="">Fiddler</a>
+							<a href="">httpwatch</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">格式化/压缩</dt>
+						<dd class="link-bd">
+							<a href="">csscomb</a>
+							<a href="">YUIcompressor</a>
+							<a href="">在线CSS/JS压缩</a>
+							<a href="">ClosureCompiler</a>
+							<a href="">jsmini</a>
+							<a href="">tinypng</a>
+							<a href="">smushit</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">CSS3在线生成</dt>
+						<dd class="link-bd">
+							<a href="">CSS3maker</a>
+					        <a href="">CSS3generator</a>
+					        <a href="">CSS3渐变生成</a>
+					        <a href="">CSS3按钮生成</a>
+					        <a href="">CSS3动画生成-ECD</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">虚拟机</dt>
+						<dd class="link-bd">
+							<a href="">IEtester</a>
+							<a href="">WINXPmode</a>
+							<a href="">vmware</a>
+							<a href="">virtualbox</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">数据转换</dt>
+						<dd class="link-bd">
+							<a href="">图片转base64</a>
+							<a href="">在线解析json</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">兼容/支持性</dt>
+						<dd class="link-bd">
+							<a href="">caniuse</a>
+							<a href="">BrowserSupport</a>
+							<a href="">HTML5/CSS3兼容查询</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">CSS/JS手册</dt>
+						<dd class="link-bd">
+							<dl class="sub-link-list">
+								<dt class="sub-link-hd">CSS</dt>
+								<dd class="sub-link-bd">
+									<a href="">CSS参考手册</a>
+									<a href="">CSS3参考手册</a>
+									<a href="">CSS3参考手册</a>
+								</dd>
+							</dl>
+							<dl class="sub-link-list">
+								<dt class="sub-link-hd">JS</dt>
+								<dd class="sub-link-bd">
+									<a href="">原生JS手册</a>
+									<a href="">jQueryAPI</a>
+									<a href="">jQuery1.7手册</a>
+								</dd>
+							</dl>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">其他</dt>
+						<dd class="link-bd">
+							<a href="">马克鳗</a>
+							<a href="">jslint</a>
+						</dd>
+					</dl>
+				</div>
+			</div>
+			<div class="section" id="J5">
+				<div class="section-inner">
+					<h3 class="hd">05.CSS/HTML</h3>
+					<dl class="link-list">
+						<dt class="link-hd">CSS框架</dt>
+						<dd class="link-bd">
+							<a href="">Normalize.css</a>
+							<a href="">lessFramework</a>
+							<a href="">Formee</a>
+							<a href="">960GRID</a>
+							<a href="">ResponsiveGridSystem</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">UI框架</dt>
+						<dd class="link-bd">
+							<a href="">Bootstrap</a>
+							<a href="">FlatUI</a>
+							<a href="">pure</a>
+							<a href="">MetroUI</a>
+							<a href="">Maxmertkit</a>
+							<a href="">Semantic</a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">CSS资源库</dt>
+						<dd class="link-bd">
+							<a href="">cssReset</a>
+							<a href="">IE默认CSS</a>
+							<a href="">浏览器hack大全</a>
+							<a href="">cssValues<i>NEW</i></a>
+							<a href="">animate动画库</a>
+							<a href="">CSS3lib动画库</a>
+							<a href="">ECD动画库</a>
+							<a href="">css3please<i>NEW</i></a>
+							<a href="">css3ClickChart<i>NEW</i></a>
+						</dd>
+					</dl>
+					<dl class="link-list">
+						<dt class="link-hd">技巧/教程</dt>
+						<dd class="link-bd">
+							<a href="">W3SCHOOL</a>
+							<a href="">W3CPLUS</a>
+							<a href="">Mozilla</a>
+							<a href="">CSS3</a>
+						</dd>
+					</dl>
+				</div>
+			</div>
+			<div class="section" id="J6">
+				<div class="section-inner">
+					<h3 class="hd">06.JavaScript</h3>
+				</div>
+			</div>
+			<div class="section" id="J7">
+				<div class="section-inner">
+					<h3 class="hd">07.多终端</h3>
+				</div>
+			</div>
+			<div class="section" id="J8">
+				<div class="section-inner">
+					<h3 class="hd">08.综合资源库</h3>
+				</div>
+			</div>
+			<div class="section" id="J9">
+				<div class="section-inner">
+					<h3 class="hd">09.懂点设计和交互</h3>
+				</div>
+			</div>
+
+			<div class="footer">
+				<p>©2014-2015 WHYCSS 版权所有 禁止转载</p>
+				<p>
+					内容投稿或建议请联系smallni@vip.qq.com 
+					<b>如果您觉得本站有帮助，可适当捐赠用于我们的服务器支出，支付宝：176542304@163.com，请备注whycss捐赠</b>
+				</p>
+				<p>
+					编辑：smallniding timezhong nornorchen markqin 设计师：suxichen
+				</p>
+			</div>
+		</div>
+	</div>
+	<!-- <div id="toTop" title="Back to Top"></div> -->
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script>
+    $(function () {
+    	var o = navigator.userAgent;
+    	if (o.indexof("iPhone") == -1 && o.indexof("iPad") == -1 && o.indexof("iPod") == -1 && o.indexof("Android") == -1) {
+    		 $.getScript("js/tips.js", function () {
+    		 	$(".link-list a").tipTip({maxWidth: "300px"});
+    		 });
+    		 $("body").addClass('pc');
+    		 $('#J-btn').click(function () {
+    		 	$("#content").toggleClass('scontent');
+    		 });
+    		 $("#J-btn").show();
+    		 $('#sidebar').show();
+
+    		 // scroll to top
+    		 var $backToTopEle = $('<div id="toTop" title="back to top"></div>').appendTo($("body"));
+    		 $backToTopEle.bind("click", function () {
+    		 	$("html, body").animate({scrollTop:"0"}, 200);
+    		 	return false;
+    		 });
+
+    		 var $backToTopFun=function(){
+    		 	var st = $(document).scrollTop(), winh = $(window).height();
+    		 	if (st > 125) {
+    		 		$("#sidebar").css("top",'0');
+    		 	} else {
+    		 		$("#sidebar").css("top",'125px');
+    		 	}
+    		 	(st > 300) ? $backToTopEle.css('visibility','visible'):$backToTopEle.css("visibility","hidden");
+    		 	if (!window.XMLHttpRequest) {
+    		 		$backToTopEle.css("top", st + winh - 60);
+    		 	}
+    		 }
+    		 $(window).bind("scroll", $backToTopFun);
+    		 $backToTopFun();
+    	} else {
+    		$("body").addClass("mobile");
+    		function onBridgeReady () {
+    			// 转发朋友圈
+    			WeixinJSBridge.on("menu:share:timeline", function (e) {
+    				var url = "'http://www.whycss.com";
+    				var data = {
+    					img_url: "http://www.whycss.com/img/favicon.ico",
+    					img_width: 32,
+    					img_height: 32,
+    					link: url,
+    					desc: "前端网址导航是为国内前端界的朋友倾力打造的资源聚合平台，包含了前端圈子、博客导航、资源聚合等内容。",
+    					title: "前端网址导航是为国内前端朋友打造的资源聚合平台"
+    				};
+    				WeixinJSBridge.invoke("shareTimeline", data, function (res) {
+    					WeixinJSBridge.log(res.err_msg)
+    				});
+    			});
+    			// 同步到微博
+    			WeixinJSBridge.on("menu:share:weibo", function (argv) {
+    				var url = "http://www.whycss.com";
+    				WeixinJSBridge.invoke("sendAppMessage", {
+    					img_url: "http://www.whycss.com/img/favicon.ico",
+    					img_width: 32,
+    					img_height: 32,
+    					link: url,
+    					desc: "前端网址导航是为国内前端界的朋友倾力打造的资源聚合平台，包含了前端圈子、博客导航、资源聚合等内容。",
+    					title: "前端网址导航是为国内前端朋友打造的资源聚合平台"
+    				}, function (res) {
+    					WeixinJSBridge.log(res.err_msg);
+    				});
+    			});
+    		};
+    		// 执行
+    		try	{
+    			document.addEventListener('WeixinJSBridge', function () {
+    				onBridgeReady();
+    			});
+    		} catch (e) {}
+    	}
+    });
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    	ga('create', 'UA-25596575-2', 'auto');
+    	ga('send', 'pageview');
+
+    </script>
+    <script src="js/state.js"></script>	
+</body>
+</html>
